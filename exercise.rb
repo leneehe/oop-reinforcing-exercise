@@ -39,5 +39,5 @@ my_trip.add = Location.new('Quebec City')
 my_trip.add = Location.new('Halifax')
 my_trip.add = Location.new("St. John's")
 my_trip.add = Location.new("New York")
-p my_trip
+# p my_trip
 my_trip.itinerary
